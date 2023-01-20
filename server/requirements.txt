@@ -1,0 +1,5 @@
+websockets
+python-environ
+redis
+hiredis
+pyjwt
